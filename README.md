@@ -6,7 +6,7 @@ Use `to-md.py` to convert a tabular text format (a tsv file) exported from Tropy
 
 Use `to-tsv.py` to convert a critical edition style text written using markdown (following a few standards laid out below) into a tabular format (a tsv file) with all formatting and footnotes removed.
 
-Permanently archived in project repo on Zenodo:
+Permanently archived in the Ajami Lab's research repository on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3752715.svg)](https://doi.org/10.5281/zenodo.3752715)
 
