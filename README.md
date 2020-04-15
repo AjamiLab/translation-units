@@ -1,6 +1,6 @@
 # translation-units
 
-Python scripts to manipulate digitized texts
+Python scripts to manipulate digitized texts broken into translation units.
 
 Use `to-md.py` to convert a tabular text format (a tsv file) exported from Tropy into a plain text prose format (a txt or markdown file) that can be used for a critical edition style text for publication.
 
